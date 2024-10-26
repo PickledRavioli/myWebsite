@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https:/PickledRavioli.github.io/myWebsite/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'KeepIt'
